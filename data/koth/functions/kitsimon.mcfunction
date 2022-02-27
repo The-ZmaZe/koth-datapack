@@ -12,8 +12,8 @@ item replace entity @s armor.legs with minecraft:diamond_leggings{Unbreakable:1,
 item replace entity @s armor.feet with minecraft:iron_boots{Unbreakable:1,display:{Lore:['[{"text":"PôleSud\'s KOTH","italic":true}]']},HideFlags:4}
 
 
-item replace entity @s hotbar.6 with minecraft:tnt{display:{Lore:['[{"text":"PôleSud\'s KOTH","italic":true}]']}} 5
-item replace entity @s hotbar.7 with minecraft:redstone_block{display:{Lore:['[{"text":"PôleSud\'s KOTH","italic":true}]']}} 5
+item replace entity @s hotbar.6 with minecraft:tnt{display:{Lore:['[{"text":"PôleSud\'s KOTH","italic":true}]']}} 64
+item replace entity @s hotbar.7 with minecraft:redstone_block{display:{Lore:['[{"text":"PôleSud\'s KOTH","italic":true}]']}} 64
 item replace entity @s hotbar.5 with minecraft:spyglass{display:{Lore:['[{"text":"PôleSud\'s KOTH","italic":true}]']}}
 item replace entity @s hotbar.3 with minecraft:golden_carrot{display:{Lore:['[{"text":"PôleSud\'s KOTH","italic":true}]']}} 64
 item replace entity @s hotbar.8 with minecraft:water_bucket{display:{Lore:['[{"text":"PôleSud\'s KOTH","italic":true}]']}}
