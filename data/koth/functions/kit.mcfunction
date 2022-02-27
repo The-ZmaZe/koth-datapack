@@ -2,7 +2,7 @@ clear @s
 
 item replace entity @s hotbar.0 with minecraft:iron_axe{Unbreakable:1,display:{Name:'[{"text":"Ratio","italic":false,"bold":true,"color": "cyan"}]',Lore:['[{"text":"PôleSud\'s KOTH","italic":true}]']},HideFlags:4}
 item replace entity @s hotbar.1 with minecraft:diamond_sword{Unbreakable:1,display:{Name:'[{"text":"Ip de Paul","italic":false}]',Lore:['[{"text":"PôleSud\'s KOTH","italic":true}]']},HideFlags:4}
-item replace entity @s hotbar.2 with minecraft:diamond_sword{Unbreakable:1,display:{Name:'[{"text":"Croixarc","italic":false}]',Lore:['[{"text":"PôleSud\'s KOTH","italic":true}]']},HideFlags:4}
+item replace entity @s hotbar.2 with minecraft:crossbow{Unbreakable:1,display:{Name:'[{"text":"Croixarc","italic":false}]',Lore:['[{"text":"PôleSud\'s KOTH","italic":true}]']},HideFlags:4}
 
 item replace entity @s weapon.offhand with minecraft:shield{Unbreakable:1,display:{Lore:['[{"text":"PôleSud\'s KOTH","italic":true}]']},HideFlags:4}
 
