@@ -11,3 +11,6 @@ weather clear
 gamerule doMobSpawning false
 difficulty peaceful
 difficulty hard
+
+worldborder center -133 115
+worldborder set 100 0
