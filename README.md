@@ -1,2 +1,2 @@
 # KOTH Datapack
-A datapack for PôleSud' s KOTH PvP game
+A datapack for my KOTH PvP game
