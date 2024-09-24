@@ -1,6 +1,14 @@
+scoreboard players set $playing playing 1
+
 scoreboard objectives add KOTH dummy
 scoreboard objectives setdisplay sidebar KOTH
 
+scoreboard objectives remove Score
+scoreboard objectives add Score dummy
+scoreboard objectives setdisplay sidebar Score
+scoreboard objectives setdisplay list Score
+
+scoreboard objectives add time dummy
 
 gamerule keepInventory true
 gamerule doDaylightCycle false

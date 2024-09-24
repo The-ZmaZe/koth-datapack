@@ -1,0 +1,1 @@
+scoreboard players set $playing playing 0
