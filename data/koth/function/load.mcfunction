@@ -1,4 +1,4 @@
-tellraw @a {"text": "PoleSud's KOTH by ZmaZa", "color": "FF8C19"}
+tellraw @a {"text": "KOTH by Disk", "color": "#FF8C19"}
 
 scoreboard objectives add KOTH dummy
 scoreboard objectives setdisplay sidebar KOTH
