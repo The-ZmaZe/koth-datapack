@@ -14,5 +14,5 @@ forceload remove 12345678 12345678
 #> remove storages:
 data remove storage barden:names names
 data remove storage barden:vaults vaults
-data remove storages barden:query GIVE_ITEMS
-data remove storages barden:query VAULTS_LIST
+data remove storage barden:query GIVE_ITEMS
+data remove storage barden:query VAULTS_LIST
