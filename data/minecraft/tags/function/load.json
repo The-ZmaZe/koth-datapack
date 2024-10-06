@@ -1,5 +1,6 @@
 {
     "values": [
-        "koth:load"
+        "koth:load",
+        "inv.saver:init"
     ]
 }

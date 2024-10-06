@@ -1,5 +1,6 @@
 {
     "values": [
-        "koth:tick"
+        "koth:tick",
+        "inv.saver:loop"
     ]
 }
