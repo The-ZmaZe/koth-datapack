@@ -23,5 +23,6 @@ difficulty hard
 worldborder center 0 0
 worldborder set 100 0
 
-spreadplayers 0 0 10 50 true @a
-execute as @a run function koth:kit
+spreadplayers 0 0 10 49 true @a
+clear @a
+execute as @a run trigger inv-Withdraw
